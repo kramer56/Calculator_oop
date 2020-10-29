@@ -1,0 +1,13 @@
+D:\github\practice-oop\calculator_oop\caculator_oop.Tests\bin\Debug\netcoreapp3.1\caculator_oop.Tests.deps.json
+D:\github\practice-oop\calculator_oop\caculator_oop.Tests\bin\Debug\netcoreapp3.1\caculator_oop.Tests.dll
+D:\github\practice-oop\calculator_oop\caculator_oop.Tests\bin\Debug\netcoreapp3.1\calculator_oop.exe
+D:\github\practice-oop\calculator_oop\caculator_oop.Tests\bin\Debug\netcoreapp3.1\calculator_oop.pdb
+D:\github\practice-oop\calculator_oop\caculator_oop.Tests\bin\Debug\netcoreapp3.1\calculator_oop.exe.config
+D:\github\practice-oop\calculator_oop\caculator_oop.Tests\obj\Debug\netcoreapp3.1\caculator_oop.Tests.AssemblyInfoInputs.cache
+D:\github\practice-oop\calculator_oop\caculator_oop.Tests\obj\Debug\netcoreapp3.1\caculator_oop.Tests.AssemblyInfo.cs
+D:\github\practice-oop\calculator_oop\caculator_oop.Tests\obj\Debug\netcoreapp3.1\caculator_oop.Tests.csproj.CopyComplete
+D:\github\practice-oop\calculator_oop\caculator_oop.Tests\bin\Debug\netcoreapp3.1\caculator_oop.Tests.pdb
+D:\github\practice-oop\calculator_oop\caculator_oop.Tests\obj\Debug\netcoreapp3.1\caculator_oop.Tests.csprojAssemblyReference.cache
+D:\github\practice-oop\calculator_oop\caculator_oop.Tests\obj\Debug\netcoreapp3.1\caculator_oop.Tests.dll
+D:\github\practice-oop\calculator_oop\caculator_oop.Tests\obj\Debug\netcoreapp3.1\caculator_oop.Tests.pdb
+D:\github\practice-oop\calculator_oop\caculator_oop.Tests\obj\Debug\netcoreapp3.1\caculator_oop.Tests.csproj.CoreCompileInputs.cache

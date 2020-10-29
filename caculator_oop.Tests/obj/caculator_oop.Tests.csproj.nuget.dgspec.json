@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\github\\practice-oop\\calculator_oop\\caculator_oop.Tests\\caculator_oop.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\github\\practice-oop\\calculator_oop\\caculator_oop.Tests\\caculator_oop.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\github\\practice-oop\\calculator_oop\\caculator_oop.Tests\\caculator_oop.Tests.csproj",
+        "projectName": "caculator_oop.Tests",
+        "projectPath": "D:\\github\\practice-oop\\calculator_oop\\caculator_oop.Tests\\caculator_oop.Tests.csproj",
+        "packagesPath": "C:\\Users\\Вадим\\.nuget\\packages\\",
+        "outputPath": "D:\\github\\practice-oop\\calculator_oop\\caculator_oop.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Вадим\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\github\\practice-oop\\calculator_oop\\calculator_oop\\calculator_oop.csproj": {
+                "projectPath": "D:\\github\\practice-oop\\calculator_oop\\calculator_oop\\calculator_oop.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit.Extension.VSProjectLoader": {
+              "target": "Package",
+              "version": "[3.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\github\\practice-oop\\calculator_oop\\calculator_oop\\calculator_oop.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\github\\practice-oop\\calculator_oop\\calculator_oop\\calculator_oop.csproj",
+        "projectName": "calculator_oop",
+        "projectPath": "D:\\github\\practice-oop\\calculator_oop\\calculator_oop\\calculator_oop.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

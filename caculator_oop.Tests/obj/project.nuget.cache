@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BMjT9PkVw6PIEzLrHzT8WKJrZx4DfiPYQMf3VNQ5TSCa35TmUf5Ng4JDf/HBulCFyAgACEqeh1E19cJ39FlFYA==",
+  "success": true,
+  "projectFilePath": "D:\\github\\practice-oop\\calculator_oop\\caculator_oop.Tests\\caculator_oop.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Вадим\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Вадим\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Вадим\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\Вадим\\.nuget\\packages\\nunit.extension.vsprojectloader\\3.8.0\\nunit.extension.vsprojectloader.3.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}

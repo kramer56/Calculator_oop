@@ -1,0 +1,10 @@
+D:\github\practice-oop\calculator_oop\calculator_oop\bin\Debug\calculator_oop.exe.config
+D:\github\practice-oop\calculator_oop\calculator_oop\bin\Debug\calculator_oop.exe
+D:\github\practice-oop\calculator_oop\calculator_oop\bin\Debug\calculator_oop.pdb
+D:\github\practice-oop\calculator_oop\calculator_oop\obj\Debug\calculator_oop.csprojAssemblyReference.cache
+D:\github\practice-oop\calculator_oop\calculator_oop\obj\Debug\calculator_oop.Form1.resources
+D:\github\practice-oop\calculator_oop\calculator_oop\obj\Debug\calculator_oop.Properties.Resources.resources
+D:\github\practice-oop\calculator_oop\calculator_oop\obj\Debug\calculator_oop.csproj.GenerateResource.cache
+D:\github\practice-oop\calculator_oop\calculator_oop\obj\Debug\calculator_oop.csproj.CoreCompileInputs.cache
+D:\github\practice-oop\calculator_oop\calculator_oop\obj\Debug\calculator_oop.exe
+D:\github\practice-oop\calculator_oop\calculator_oop\obj\Debug\calculator_oop.pdb
